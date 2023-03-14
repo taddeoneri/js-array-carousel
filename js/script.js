@@ -1,3 +1,9 @@
+/*
+
+Dato un array contenente una lista di cinque immagini, creare un carosello come nello screenshot allegato.
+
+*/
+
 const images = [
     '01.webp',
     '02.webp',
