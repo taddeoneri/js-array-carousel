@@ -1,0 +1,29 @@
+.wrapper{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider{
+    width: 840px;
+    height: 300px;
+    background-color: aquamarine;
+}
+.aside{
+    width: 180px;
+    height: 300px;
+    background-color: blue;
+}
+.slide{
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+.slide img{
+    width: 100%;
+    height: 100%;
+}
+.active{
+    display: block;
+}
